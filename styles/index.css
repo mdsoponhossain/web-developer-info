@@ -109,7 +109,7 @@ nav {
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin:130px
+    margin: 130px 
 }
 
 .section-title {
@@ -126,11 +126,23 @@ nav {
     font-weight: 400;
     line-height: 30px;
 }
-.para{
-    color:#757575;
 
-font-size: 18px;
+.para {
+    color: #757575;
+
+    font-size: 18px;
 
 
-line-height: 30px;
+    line-height: 30px;
 }
+main{
+    width: 1140px;
+    margin:0px auto
+
+}
+.container-r{
+    display:flex;justify-content: space-around;
+}
+}
+.about-infor{text-align:center
+    
