@@ -32,7 +32,7 @@ nav a{
     text-decoration: none; color:#474747;
 }
 .btn-color{
-    background-color:#FD6E0A;width: 150px;
+    background-color:#FD6E0A;width: 250px;
     height: 64px;
     border:0px;font-size: 20px;
    font-weight: 700;color:white;padding:18px 35px;
@@ -40,7 +40,22 @@ nav a{
 }
 nav{
     justify-content:space-between;
-    align-items: center;
+    align-items: center;margin:0px 220px;
 }
+.header{
+    background-color:#FFF8F3
+}
+.banner{
+    padding:30px 30px 30px 150px;display:flex;align-items:center;
+}
+.pofile{
+    width: 584px;
+height: 676px;
+
+}
+.content{
+    
+}
+
 
     
