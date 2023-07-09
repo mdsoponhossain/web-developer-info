@@ -174,13 +174,6 @@ main {
 main>section {
     margin: 130px;
 }
-
-.resume-colum-title {
-    color: #474747;
-
-    font-size: 30px;
-
-    font-weight: 700;
-
-
+footer{
+    display:flex;background: #FFF8F3;
 }
