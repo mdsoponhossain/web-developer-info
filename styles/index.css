@@ -1,0 +1,46 @@
+/* applying font style in the body tag */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* nav bar style */
+nav{
+    display:flex
+}
+/* nav head styling */
+
+.nav_title{
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+font-size: 45px;
+font-weight: 800;
+}
+.primary{
+   color:#FD6E0A
+}
+nav>ul{
+    display:flex;justify-content: space-between;align-items: center;
+}
+nav>ul>li{
+    list-style:none; margin-right:50px;
+}
+nav a{
+    text-decoration: none; color:#474747;
+}
+.btn-color{
+    background-color:#FD6E0A;width: 150px;
+    height: 64px;
+    border:0px;font-size: 20px;
+   font-weight: 700;color:white;padding:18px 35px;
+   
+}
+nav{
+    justify-content:space-between;
+    align-items: center;
+}
+
+    
